@@ -1,0 +1,2 @@
+# Snake Game
+ This project is a C++ implementation of the classic Snake game. The game features multiple levels, where players navigate the snake to collect fruit and avoid hitting the walls or its own tail. The game ends when the snake collides with itself or the walls (in certain levels). This project also demonstrates the use of Object-Oriented Programming (OOP) techniques to structure the game logic.
